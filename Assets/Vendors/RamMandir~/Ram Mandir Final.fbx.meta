@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 81e3815422ccc654e9aeb85fbd518b04
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arch
+    second: {fileID: 2100000, guid: 75fed0a70b583ce459aeb32a55fcdb82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base_optimized
+    second: {fileID: 2100000, guid: ba92549490b19724fbbf3207836ee78b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_Dome_Mat
+    second: {fileID: 2100000, guid: 389baaf8e8f574148968458aefee10eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other_Dom_mat
+    second: {fileID: 2100000, guid: 9a53111ec12e7de4aafdf021c0e6a53b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piller_Mat
+    second: {fileID: 2100000, guid: c2dce12e00c7b9741bde1820a5170003, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Base_optimized_BaseColor
+    second: {fileID: 2800000, guid: 3e291e1ce76dbc3479ff6723835b3064, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Base_optimized_Normal
+    second: {fileID: 2800000, guid: 10905e24e098b1c409b3711a878fe496, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Base_optimized_Roughness
+    second: {fileID: 2800000, guid: 837c6374649d9c5469600411d982d6cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Main_Dome_Mat_BaseColor
+    second: {fileID: 2800000, guid: c7ac3adcb686f854b9ac687e837631e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Main_Dome_Mat_Metallic
+    second: {fileID: 2800000, guid: 0aa2722bc3fba784cb96d77977c41692, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Main_Dome_Mat_Normal
+    second: {fileID: 2800000, guid: b563c8df8154491499b4d5361601110a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Main_Dome_Mat_Roughness
+    second: {fileID: 2800000, guid: 160be8e015fd81c44b64dbfcca16e2c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Other_Dom_mat_BaseColor
+    second: {fileID: 2800000, guid: 4155e40b155332d4e88aecc43e81f569, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Other_Dom_mat_Metallic
+    second: {fileID: 2800000, guid: eab817b4305b1c04ba06e8edb7c5bdd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Other_Dom_mat_Normal
+    second: {fileID: 2800000, guid: 358ac3eb237009a479a2eef0ada643b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Other_Dom_mat_Roughness
+    second: {fileID: 2800000, guid: 0676724f9e1761b4ea3ad30225bb5a1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Piller_Mat_BaseColor
+    second: {fileID: 2800000, guid: 371230ea0b417264b93f2931642d6a7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Piller_Mat_Normal
+    second: {fileID: 2800000, guid: 4ac7026ffae1138428d64cb13f5ed638, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Main_Temple_Final_Piller_Mat_Roughness
+    second: {fileID: 2800000, guid: aaadea088403d534aa9e7f26e5cbbc96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ram Mandir 1_Arch_Mat_BaseColor
+    second: {fileID: 2800000, guid: 25800857efd47ab4b880e34c6a2f0797, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ram Mandir 1_Arch_Mat_Normal
+    second: {fileID: 2800000, guid: d6a118e041761f24ab9d9474c0b039c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ram Mandir 1_Arch_Mat_Roughness
+    second: {fileID: 2800000, guid: ff5af5f5886b1224390ff7292939b12e, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
